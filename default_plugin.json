@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "name": "Default",
+      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-Default/refs/heads/main/plugin.json"
+    },
+    {
+      "name": "FFmpeg"
+      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-FFmpeg/refs/heads/main/plugin.json"
+    }
+  ]
+}

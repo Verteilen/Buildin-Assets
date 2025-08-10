@@ -7,7 +7,7 @@
     },
     {
       "name": "FFmpeg",
-      "description", "Open-source multimedia framework",
+      "description": "Open-source multimedia framework",
       "url": "https://raw.githubusercontent.com/Verteilen/Plugin-FFmpeg/refs/heads/main/plugin.json"
     }
   ]

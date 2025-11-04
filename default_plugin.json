@@ -3,12 +3,17 @@
     {
       "name": "Default",
       "description": "Provide testing use executable",
-      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-Default/refs/heads/main/plugin.json"
+      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-Default/refs/heads/main/manifest.json"
     },
     {
       "name": "FFmpeg",
       "description": "Open-source multimedia framework",
-      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-FFmpeg/refs/heads/main/plugin.json"
+      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-FFmpeg/refs/heads/main/manifest.json"
+    },
+    {
+      "name": "Blender",
+      "description": "Open-source multimedia framework",
+      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-Blender/refs/heads/main/manifest.json"
     }
   ]
 }

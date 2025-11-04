@@ -1,9 +1,0 @@
-{
-  "data": [
-    {
-      "name": "FFmpeg",
-      "description": "Open-source multimedia framework",
-      "url": "https://raw.githubusercontent.com/Verteilen/Template-FFmpeg/refs/heads/main/dist/template.json"
-    }
-  ]
-}

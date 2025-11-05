@@ -8,12 +8,12 @@
     {
       "name": "FFmpeg",
       "description": "Open-source multimedia framework",
-      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-FFmpeg/refs/heads/main/manifest.json"
+      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-FFmpeg/refs/heads/main/dist/manifest.json"
     },
     {
       "name": "Blender",
       "description": "Open-source 3D modeling tool",
-      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-Blender/refs/heads/main/manifest.json"
+      "url": "https://raw.githubusercontent.com/Verteilen/Plugin-Blender/refs/heads/main/dist/manifest.json"
     }
   ]
 }
